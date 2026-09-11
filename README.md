@@ -1,5 +1,16 @@
 # Day 02 Lab — Tìm Đúng Bài Toán Cho AI
 
+## Trạng thái bài nộp cá nhân
+
+- [x] Scan 10 vấn đề, shortlist và top 3 Problem Cards.
+- [x] Research có nguồn về quy mô, tác động, đối thủ và rủi ro.
+- [x] Chọn candidate: **Assignment Control Tower — gom deadline và yêu cầu đa nguồn có dẫn nguồn**.
+- [x] Workflow trước/sau, metric, boundary, business gap và quyết định **Not Yet**.
+- [x] Reflection cá nhân minh bạch việc dùng AI và giới hạn bằng chứng.
+- [ ] Artifact nhóm — chờ hoạt động convergence/validation thật với các thành viên.
+
+Đi thẳng tới [bài scan cá nhân](01-individual-problem-scan/individual-report.md) hoặc [reflection](03-individual-reflection/reflection.md).
+
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
 
 ## Tài liệu trong folder này
