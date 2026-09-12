@@ -6,10 +6,12 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm |
 |---:|---|---|---|
-| 1 | _Bổ sung_ | _Bổ sung_ | _Bổ sung_ |
-| 2 | _Bổ sung_ | _Bổ sung_ | _Bổ sung_ |
-| 3 | _Bổ sung_ | _Bổ sung_ | _Bổ sung_ |
-| 4 | _Bổ sung_ | _Bổ sung_ | _Bổ sung_ |
+| 1 | Hà Mạnh Tuân | 2A202602982 | Leader |
+| 2 | Nguyễn Hải Long | 2A202602471 | Member |
+| 3 | Nguyễn Nguyên Phong | 2A202602691 | Member |
+| 4 | Đào Ngọc Quỳnh Thiên | 2A202602814 | Member |
+| 5 |  Đỗ Thái Sơn | 2A202603021 | Member |
+| 6 | 2A202602662 | Nguyễn Vũ Huy | Member |
 
 **Candidate problem đề xuất để nhóm xem xét:** Sinh viên học nhiều môn phải tự hợp nhất deadline và yêu cầu từ LMS, email, chat và file nên dễ bỏ sót hoặc nhập sai lịch.
 
