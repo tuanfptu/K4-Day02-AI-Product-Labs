@@ -1,71 +1,65 @@
-# Individual Reflection — Day 02
+# 03 — Individual Reflection
 
-> Ghi chú trung thực: bài này được hoàn thiện với sự hỗ trợ của AI theo yêu cầu. Vì chưa có buổi làm nhóm, tôi không nhận mình đã pitch, phỏng vấn hay challenge người khác. Các phát biểu về trải nghiệm cá nhân cần được tôi rà soát lần cuối trước khi nộp.
+> Ghi chú trung thực: nội dung cá nhân đã hoàn thành với hỗ trợ của AI. Vì chưa có bằng chứng về buổi làm nhóm, bài không tự nhận đã pitch, phỏng vấn hay challenge thành viên khác.
 
-## Tôi đã tham gia vào phần nào?
+## Thông tin cá nhân
 
-| Hoạt động | Đóng góp ở mức cá nhân | Kết quả / trạng thái |
+- Họ và tên: _Bổ sung trước khi nộp_
+- Mã học viên: _Bổ sung trước khi nộp_
+- Nhóm: _Bổ sung sau khi ghép nhóm_
+- Candidate problem nhóm chọn: _Chưa chốt; candidate cá nhân đề xuất là Assignment Control Tower_
+
+---
+
+## 1. Tôi đã tham gia vào phần nào?
+
+| Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | Xây danh sách 10 pain points theo 4 lăng kính | Hoàn thành |
-| Top 3 | Chấm 7 tiêu chí và viết 3 Problem Cards | Hoàn thành |
-| Research | Đối chiếu số liệu Bộ GD&ĐT, Chính phủ, nghiên cứu IEEE, UNESCO và feature hiện có của Google Classroom | Hoàn thành desk research; chưa có primary interview |
-| Business gap | Tách “reminder app” khỏi “cross-channel trust layer” | Có hypothesis và rủi ro cần kiểm chứng |
-| Workflow | Vẽ before/after, chỉ rõ AI, rule và human boundary | Hoàn thành draft cá nhân |
-| Decision | Chọn Not Yet thay vì Go vội | Cần pilot 20 người / 4 tuần |
-| Pitch/challenge nhóm | Chưa diễn ra | Không bịa dữ liệu; chuẩn bị pitch + self-challenge để dùng khi làm nhóm |
+| Scan cá nhân | Xây danh sách 10 pain points theo 4 lăng kính và gắn kế hoạch đo | Hoàn thành đầu vào cá nhân để pitch |
+| Pitch Problem Card | Chuẩn bị pitch cho Assignment Control Tower | Sẵn sàng trình bày; chưa ghi nhận hoạt động pitch thật |
+| Challenge bài của bạn khác | Chưa thực hiện | Chờ buổi convergence, không tạo dữ liệu giả |
+| Gom trùng / cluster | Chuẩn bị ba candidate để đối chiếu với nhóm | Chưa có artifact nhóm |
+| Chọn candidate problem | Chấm điểm và chọn candidate cá nhân | Assignment Control Tower đạt 32/35 trong bảng cá nhân |
+| Validation / research | Trực tiếp làm literature review về nhận diện va chạm ô tô, tìm từ Google Scholar đến các paper/hội nghị như CVPR; đồng thời kiểm nguồn cho candidate deadline | Xác nhận workflow literature review tốn thời gian và tạo thêm một candidate có trải nghiệm thật |
+| Workflow nhóm | Vẽ current/future workflow ở mức cá nhân, chỉ rõ AI, rule và human boundary | Có bản nháp để nhóm phản biện |
+| Problem Statement | Làm rõ actor, bottleneck, impact, metric và boundary | Có nội dung cá nhân; chờ nhóm viết v0/v1 |
+| Rule / Workflow / Agent | So sánh non-AI, rule và workflow; không chọn Agent | Đề xuất mức Workflow |
+| Decision | Chọn Not Yet thay vì Go | Đặt điều kiện pilot 20 sinh viên trong 4 tuần |
 
-## AI đã được dùng như thế nào?
+**Dấu tay rõ nhất của tôi trong artifact cuối:** Tôi xác định khoảng trống không nằm ở một app nhắc deadline chung chung mà ở lớp hợp nhất thông tin đa nguồn có dẫn nguồn, phát hiện conflict và yêu cầu người dùng xác nhận.
 
-| Phase | AI hỗ trợ | Hữu ích | Điểm yếu/rủi ro | Cách tôi kiểm soát |
+---
+
+## 2. Bảng dùng AI
+
+| Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | Mở rộng góc nhìn và chuẩn hóa cách mô tả | Tránh solution-first | Dễ bịa pain “nghe hợp lý” | Chỉ giữ pain có workflow và kế hoạch đo |
-| Problem Card | Phản biện actor, metric, boundary | Làm rõ logic | Có xu hướng đề xuất agent quá sớm | Buộc so với rule và workflow |
-| Research | Tìm lead và tổng hợp nguồn | Tốc độ cao | Có thể trộn năm, population, correlation/causation | Mở nguồn gốc, ghi rõ loại nghiên cứu và giới hạn suy rộng |
-| Market | Tách market signal khỏi revenue forecast | Tránh coi mọi sinh viên là khách trả tiền | Market-size thứ cấp có thể không minh bạch phương pháp | Dùng như directional signal; không dựng forecast |
-| Workflow | Chuyển mô tả thành flow có fallback | Thấy rõ điểm can thiệp | Có thể che mất edge case | Thêm conflict, abstain, confirmation và source provenance |
-| Decision | So sánh Go/Not Yet/No-Go | Ép nhìn vào bằng chứng thiếu | AI có thể “lạc quan sản phẩm” | Chọn Not Yet và đặt kill criteria định lượng |
+| Scan | Mở rộng góc nhìn và phản biện mô tả pain | Giúp chuẩn hóa actor, workflow và cách đo | Dễ tạo pain nghe hợp lý nhưng không gắn trải nghiệm thật | Chỉ giữ vấn đề có workflow và kế hoạch đo |
+| Problem Card | Kiểm tra actor, metric và boundary | Làm rõ logic giữa pain và outcome | Có xu hướng đề xuất Agent quá sớm | Buộc so sánh với form, rule và workflow |
+| Workflow | Chuyển mô tả thành flow và liệt kê edge case | Làm rõ điểm AI can thiệp và bước con người duyệt | Có thể che mất conflict và lỗi ngày giờ | Thêm source snippet, abstain, confirmation và fallback |
+| Research | Mở rộng từ khóa, nhóm paper và tổng hợp limitation | Giúp bao quát nhanh hơn các hướng liên quan đến nhận diện va chạm ô tô | Có thể coi limitation của một paper là research gap hoặc đề xuất gap đã có người giải | Mở paper gốc, tìm cited-by/paper mới và yêu cầu ít nhất 2 nguồn cùng search phản chứng cho mỗi gap |
+| Problem Statement | Phản biện độ cụ thể của bottleneck và metric | Giúp tách market signal khỏi bằng chứng pain | Dễ biến market size thành bằng chứng nhu cầu | Ghi rõ desk research chưa thay thế validation khách hàng |
+| Rule / Workflow / Agent | So sánh quyền hạn và rủi ro của ba mức | Chỉ ra rule phù hợp với validation và lịch | Có xu hướng xem tự chủ cao là tốt hơn | Chọn Workflow, giữ human confirmation trước khi ghi lịch |
+| Decision | Kiểm tra Go / Not Yet / No-Go | Làm lộ các bằng chứng còn thiếu | Dễ lạc quan về product-market fit | Chọn Not Yet và đặt metric cùng kill criteria định lượng |
 
-## Reflection
+---
 
-Điểm học được lớn nhất là một thị trường lớn không tự động tạo ra một bài toán tốt. Hơn hai triệu sinh viên và hàng trăm doanh nghiệp EdTech cho thấy nhu cầu số hóa, nhưng đồng thời cảnh báo rằng “làm thêm một app học tập” là hướng quá rộng và cạnh tranh. Cơ hội chỉ trở nên sắc nét khi tôi đặt workflow hiện tại cạnh feature đã có: LMS và calendar xử lý tốt dữ liệu có cấu trúc trong hệ sinh thái của chúng, còn pain giả định nằm ở khâu biến thông tin đa nguồn thành task đáng tin.
+## 3. Reflection câu hỏi mở
 
-Tôi cũng thay đổi quan điểm về vai trò của AI. Ban đầu, một agent tự đọc mọi kênh, tự lên lịch và tự nhắc có vẻ hấp dẫn. Sau khi phân tích hậu quả của một deadline sai, giải pháp phù hợp hơn là workflow có quyền hạn hẹp: AI trích xuất, rule kiểm tra, con người xác nhận. Với bài toán high-impact nhưng dễ review, khả năng “không hành động khi không chắc” quan trọng hơn mức độ tự chủ.
+**Reflection:**
 
-Research làm rõ cả mặt thuận lẫn mặt nghịch. Nghiên cứu IEEE là bằng chứng tốt rằng reminder gần deadline có thể cải thiện submission, nhưng không chứng minh sinh viên Việt Nam gặp đúng pain đa nguồn hoặc sẽ trả tiền. Nghiên cứu về nudge fatigue cũng nhắc rằng nhiều notification hơn không đồng nghĩa tốt hơn. Vì vậy success metric phải gồm cả outcome, độ chính xác và cảm nhận về notification, không chỉ số message được gửi.
+Trong tuần 05–11/09/2026, tôi đã dành hơn ba ngày để làm literature review và tìm khoảng trống nghiên cứu cho bài toán nhận diện va chạm ô tô. Tôi phải đi qua ít nhất ba tầng nguồn từ Google Scholar đến trang lưu trữ hoặc publisher và các paper ở venue như CVPR. Workflow thực tế có 12 bước, từ đặt câu hỏi, mở rộng từ khóa và snowball citation đến kiểm tra gap cùng nguồn lực thực hiện. Tôi nhận ra tìm được nhiều paper chưa có nghĩa là tìm được hướng nghiên cứu tốt. Phần tốn công nhất là phân biệt paper thực sự cùng bài toán, nối kết quả với nhau và xác định hạn chế nào tạo thành một research gap có thật. Một limitation riêng lẻ không đủ để kết luận có gap vì công trình mới hơn có thể đã giải quyết nó. Gap cũng không hữu ích với tôi nếu cần dataset không thể tiếp cận, GPU vượt khả năng, thời gian quá dài hoặc kiến thức nền chưa đáp ứng. Vì vậy tôi đề xuất hệ thống tạo evidence map, search phản chứng cho từng candidate gap và chấm feasibility theo data, compute, thời gian cùng skill hiện có. AI hữu ích khi mở rộng từ khóa và phân nhóm phương pháp, nhưng có thể bịa citation hoặc biến nhận xét chung thành một gap nghe hấp dẫn. Tôi sẽ chỉ chấp nhận gap khi có paper gốc hỗ trợ, metadata kiểm được và chưa bị phủ định bởi search công trình mới hơn. Mốc hơn ba ngày là self-report hồi tưởng; ở lần review tiếp theo tôi sẽ lưu số giờ từng bước, số query, số paper mở, số paper giữ lại và lý do loại. Candidate này vì thế có bằng chứng trải nghiệm cá nhân rõ và xứng đáng được đưa vào buổi convergence cùng Assignment Control Tower.
 
-Phần yếu nhất hiện tại là primary evidence. Desk research cho biết “đáng hỏi tiếp”, chưa cho phép tuyên bố product-market fit. Nếu làm tiếp, tôi sẽ bắt đầu bằng diary study thay vì survey câu hỏi chung: 10–15 sinh viên chụp lại nơi mỗi assignment xuất hiện, ghi thời gian chuyển sang lịch, các thay đổi và lỗi. Dữ liệu hành vi này sẽ giúp phân biệt ba tình huống: pain thực sự do phân mảnh; pain do thói quen cá nhân; hoặc trường đã có LMS đủ tốt.
+---
 
-Nếu làm lại, tôi sẽ đưa kill criteria vào ngay từ đầu. Ý tưởng phải dừng hoặc chuyển về rule-only nếu phần lớn input đã có due date structured, người dùng không tin tưởng cơ chế forward dữ liệu, hoặc extraction vẫn cần sửa quá nhiều. Một quyết định No-Go có bằng chứng tốt đáng giá hơn một demo AI đẹp nhưng giải sai vấn đề.
+## 4. Tự kiểm cuối bài
 
-## Tôi tự giải thích mạch bài toán
-
-```text
-Problem
-Thông tin bài tập rải ở nhiều nguồn và phải tự diễn giải
-  ↓
-Workflow
-Mở nguồn → lọc → đọc → nhập lịch → nhắc → kiểm lại
-  ↓
-Bottleneck
-Lọc và chuyển văn bản tự do thành task đúng
-  ↓
-Metric
-Thời gian, missed-task rate, field precision, edit rate, reminder usefulness
-  ↓
-Boundary
-Không tự đổi deadline/nộp bài; luôn dẫn nguồn; human confirm; abstain khi conflict
-  ↓
-AI fit
-AI tốt ở extraction ngôn ngữ; rule tốt ở validation/schedule; người chịu trách nhiệm chốt
-  ↓
-Decision
-Not Yet: validate pain và trust trước, pilot workflow nhỏ, chưa cần Agent
-```
-
-## Cam kết bước tiếp theo
-
-1. Thực hiện 10–15 interview và diary study 2 tuần.
-2. Thu 100 thông báo thật đã ẩn dữ liệu nhạy cảm để tạo test set.
-3. Benchmark AI workflow với baseline form/rule-only.
-4. Không lưu toàn bộ inbox/chat; pilot bằng cơ chế forward-only và consent rõ.
-5. Chỉ chuyển sang Go khi đạt ngưỡng metric đã nêu trong individual report.
+- [x] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
+- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm
+- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài
+- [ ] [15đ] Nhóm có workflow trước/sau
+- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
+- [x] [15đ] Cá nhân đã so sánh No AI / Rule / Workflow / Agent
+- [x] [10đ] Cá nhân có quyết định Not Yet + lý do rõ
+- [x] [10đ] Reflection có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI

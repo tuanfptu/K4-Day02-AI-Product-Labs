@@ -13,6 +13,14 @@
 
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
 
+## Trạng thái bài nộp
+
+- [x] Phần 01 đã chuyển sang template mới: 10 problems, top 3 Problem Cards, workflow trước/sau, pitch và self-challenge.
+- [x] Phần 03 đã chuyển sang template mới: contribution cá nhân, bảng dùng AI và reflection 8–12 câu.
+- [ ] Phần 02 đã pre-fill từ candidate cá nhân; cần nhóm bổ sung thành viên, 9–12 candidates, disagreement, quote validation và xác nhận Problem Statement v1.
+
+Đi thẳng tới [Individual Problem Scan](01-individual-problem-scan/individual-report.md), [Group Problem Statement](02-group-problem-statement/group-report.md) hoặc [Individual Reflection](03-individual-reflection/reflection.md).
+
 ## Tài liệu trong folder này
 
 Folder này chỉ giữ các file cần thiết:
