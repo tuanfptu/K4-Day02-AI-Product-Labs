@@ -11,7 +11,7 @@
 | 3 | Nguyễn Nguyên Phong | 2A202602691 | Member |
 | 4 | Đào Ngọc Quỳnh Thiên | 2A202602814 | Member |
 | 5 |  Đỗ Thái Sơn | 2A202603021 | Member |
-| 6 | 2A202602662 | Nguyễn Vũ Huy | Member |
+| 6 | Nguyễn Vũ Huy | 2A202602662 | Member |
 
 **Candidate problem đề xuất để nhóm xem xét:** Sinh viên học nhiều môn phải tự hợp nhất deadline và yêu cầu từ LMS, email, chat và file nên dễ bỏ sót hoặc nhập sai lịch.
 
